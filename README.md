@@ -38,13 +38,21 @@ pnpm start
 
 Import this repository into Vercel. The Next.js framework preset should be detected automatically. No environment variables are required.
 
+## Design system
+
+- Tokens live in `src/app/globals.css`: raw palette in `:root`, semantic names (`page`, `text`, `muted`, `accent`, `action`, `inverse`) in `@theme`. Components use only the semantic names.
+- One typeface, Readex Pro (self-hosted via `@fontsource-variable/readex-pro`), because it covers Latin and Arabic in one family.
+- Use logical utilities (`ms-`, `pe-`, `text-start`, `border-s`) so layouts flip correctly in RTL.
+
+## Content
+
+All copy and project data, in English and Arabic, is in `src/content/site.ts`. Set `site.email` there to show an Email button in the contact section.
+
 ## Before publishing
 
-- Verify every project description and status.
-- Add direct source-code links for projects whose repositories are public.
-- Add a professional contact email if you want visitors to contact you outside GitHub.
-- Replace the CSS project previews with real screenshots when available.
-- Review the site on mobile and desktop.
+- Have a native Arabic speaker review the Arabic copy.
+- Add screenshots for the featured projects when available.
+- Add repository links for Budget App and Task CLI.
 
 ## License
 
