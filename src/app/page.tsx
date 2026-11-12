@@ -29,6 +29,78 @@ const projects = [
   },
   {
     number: "02",
+    name: "Gayle Electrical Ltd",
+    category: "Business website",
+    description:
+      "A bilingual English and Arabic business website built around a reusable configuration, with RTL layout support and localized content.",
+    stack: ["Next.js", "TypeScript", "Tailwind CSS"],
+    status: "GitHub",
+    href: "https://github.com/muhammedaadhilv69-crypto/gayle-electrical-ltd-site",
+    linkLabel: "View repository",
+    visual: "cars",
+  },
+  {
+    number: "03",
+    name: "Abu Shanab",
+    category: "Business website",
+    description:
+      "An English and Arabic local-business website project using a configurable Next.js template with right-to-left layout support.",
+    stack: ["Next.js", "TypeScript", "Tailwind CSS"],
+    status: "GitHub",
+    href: "https://github.com/muhammedaadhilv69-crypto/abu-shanab",
+    linkLabel: "View repository",
+    visual: "cars",
+  },
+  {
+    number: "04",
+    name: "ProxDevs Website 2.0",
+    category: "Multi-page website",
+    description:
+      "A rebuild of the ProxDevs website, with dedicated routes for projects, team, about, contact, and joining the community.",
+    stack: ["Web development", "Routing"],
+    status: "GitHub",
+    href: "https://github.com/muhammedaadhilv69-crypto/proxdevs-site-2.0",
+    linkLabel: "View repository",
+    visual: "terminal",
+  },
+  {
+    number: "05",
+    name: "LinkVault",
+    category: "Web application",
+    description:
+      "A React and TypeScript web application project built with Vite.",
+    stack: ["React", "TypeScript", "Vite"],
+    status: "GitHub",
+    href: "https://github.com/muhammedaadhilv69-crypto/linkvault",
+    linkLabel: "View repository",
+    visual: "budget",
+  },
+  {
+    number: "06",
+    name: "SpaceShooter2D",
+    category: "Game development",
+    description:
+      "A 2D shooter game project exploring gameplay programming and game development fundamentals.",
+    stack: ["Game development", "2D"],
+    status: "GitHub",
+    href: "https://github.com/muhammedaadhilv69-crypto/SpaceShooter2D",
+    linkLabel: "View repository",
+    visual: "terminal",
+  },
+  {
+    number: "07",
+    name: "Next.js Dashboard",
+    category: "Learning project",
+    description:
+      "A dashboard project based on the Next.js App Router course, exploring the framework's routing and application structure.",
+    stack: ["Next.js", "React", "TypeScript"],
+    status: "GitHub",
+    href: "https://github.com/muhammedaadhilv69-crypto/nextjs-dashboard",
+    linkLabel: "View repository",
+    visual: "budget",
+  },
+  {
+    number: "08",
     name: "Budget App",
     category: "Personal project",
     description:
@@ -40,7 +112,7 @@ const projects = [
     visual: "budget",
   },
   {
-    number: "03",
+    number: "09",
     name: "Task CLI",
     category: "Developer tool",
     description:
