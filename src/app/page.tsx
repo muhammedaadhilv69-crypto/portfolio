@@ -1,7 +1,5 @@
 import {
-  ArrowDown,
   ArrowDownRight,
-  ArrowRight,
   ArrowUpRight,
   Braces,
   Check,
