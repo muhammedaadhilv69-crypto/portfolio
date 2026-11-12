@@ -343,7 +343,7 @@ export default function Home() {
                 <h3 className="mt-6 text-2xl font-semibold tracking-tight">Tacit OS</h3>
                 <p className="mt-3 max-w-sm text-[13px] leading-6 text-[#929c94]">Contributed to an open-source desktop environment project. My pull request was merged — a practical experience in collaboration, code review, and working in an existing codebase.</p>
               </div>
-              <a href="https://github.com/muhammedaadhilv69-crypto/tacit/pull/54" target="_blank" rel="noreferrer" className="mt-8 inline-flex items-center gap-2 text-[12px] font-semibold text-[#c5e9cd] hover:text-white">
+              <a href="https://github.com/tacit-os/tacit/pull/54" target="_blank" rel="noreferrer" className="mt-8 inline-flex items-center gap-2 text-[12px] font-semibold text-[#c5e9cd] hover:text-white">
                 View merged pull request <ArrowUpRight size={14} />
               </a>
             </article>
