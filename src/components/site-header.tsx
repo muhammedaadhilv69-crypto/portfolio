@@ -21,7 +21,7 @@ export function SiteHeader() {
 
       <div className="wrap flex h-16 items-center justify-between gap-4">
         <a href="#top" className="text-lg font-semibold tracking-tight" dir="ltr">
-          aadhil
+          The Duck
         </a>
 
         <nav aria-label="Main" className="hidden items-center gap-8 md:flex">
