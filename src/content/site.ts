@@ -5,7 +5,7 @@ export const site = {
   url: "https://the-duck-portfolio.vercel.app",
   github: "https://github.com/muhammedaadhilv69-crypto",
   /** Add a public contact email here and an Email button appears in the contact section. */
-  email: "" as string,
+  email: "muhammedaadhilv69@gmail.com",
 } as const;
 
 type Text = Record<Lang, string>;
